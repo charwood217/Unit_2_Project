@@ -5,8 +5,8 @@
    Tutorial 10
    Case Problem 4
 
-   Author: 
-   Date:   
+   Author: Christian Harwood
+   Date: 2/6/20  
    
    Filename: vw_results.js
    
